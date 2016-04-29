@@ -1,0 +1,34 @@
+﻿<h3>Products</h3>
+<div ng-controller="mainController">
+    <p>{{angular.version.full}}</p>
+    <form name="productForm" novalidate>
+        <table class="table table-striped">
+            <tr>
+                <th>Product Id</th>
+                <th>Product Name</th>
+                <th>Product Type</th>
+                <th>Price</th>
+                <th></th>
+            </tr>
+            <tr ng-repeat="product in products">
+                <td>{{product.Id}}</td>
+                <td>{{product.ProductName}}</td>
+                <td>{{product.ProductType}}</td>
+                <td>{{product.Price | currency}}</td>
+                <td class="text-right">
+                    <button class="btn btn-danger" type="submit" ng-click="deleteProduct(product)">X</button>
+                </td>
+            </tr>
+        </table>
+        <section>
+            <br/>Product: <input type="text" required ng-model="newProduct" name="newProduct" />
+            <span class="has-error" ng-show="productForm.newProduct.$error.required">Required!</span>
+            <br />Price: <input type="text" required ng-model="newProductPrice" />
+            <span class="has-error" ng-show="productForm.newProductPrice.$error.number">Number Please!</span>
+            <br />Type: <input type="text" required ng-model="newProductType" />
+
+            <br /><a href="#" class="btn btn-primary" ng-click="addProduct()">Add Product</a>
+        </section>
+    </form>
+</div>
+

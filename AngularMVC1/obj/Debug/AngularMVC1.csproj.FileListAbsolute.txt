@@ -1,0 +1,72 @@
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\roslyn\csc.exe
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\roslyn\vbc.exe
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\roslyn\VBCSCompiler.exe
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\AngularMVC1.dll.config
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\AngularMVC1.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\AngularMVC1.pdb
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\EntityFramework.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\EntityFramework.SqlServer.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\System.Web.Helpers.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\System.Web.Mvc.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\System.Web.Razor.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\System.Web.Webpages.Deployment.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\System.Web.Webpages.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\System.Web.Webpages.Razor.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\EntityFramework.xml
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\EntityFramework.SqlServer.xml
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\System.Web.Razor.xml
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\System.Web.Webpages.xml
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\System.Web.Webpages.Deployment.xml
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\System.Web.Webpages.Razor.xml
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\System.Web.Helpers.xml
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\bin\System.Web.Mvc.xml
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\obj\Debug\AngularMVC1.csprojResolveAssemblyReference.cache
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\obj\Debug\AngularMVC1.dll
+c:\users\jayan\onedrive\documents\visual studio 2015\Projects\AngularMVC1\AngularMVC1\obj\Debug\AngularMVC1.pdb
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\roslyn\csc.exe
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\roslyn\System.Collections.Immutable.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\roslyn\vbc.exe
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\roslyn\VBCSCompiler.exe
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\roslyn\VBCSCompiler.exe.config
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\AngularMVC1.dll.config
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\AngularMVC1.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\AngularMVC1.pdb
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\EntityFramework.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\EntityFramework.SqlServer.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\System.Web.Helpers.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\System.Web.Mvc.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\System.Web.Razor.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\System.Web.Webpages.Deployment.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\System.Web.Webpages.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\System.Web.Webpages.Razor.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\EntityFramework.xml
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\EntityFramework.SqlServer.xml
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\System.Web.Razor.xml
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\System.Web.Webpages.xml
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\System.Web.Webpages.Deployment.xml
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\System.Web.Webpages.Razor.xml
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\System.Web.Helpers.xml
+C:\Development\Learn\AngularMVC1\AngularMVC1\bin\System.Web.Mvc.xml
+C:\Development\Learn\AngularMVC1\AngularMVC1\obj\Debug\AngularMVC1.dll
+C:\Development\Learn\AngularMVC1\AngularMVC1\obj\Debug\AngularMVC1.pdb
